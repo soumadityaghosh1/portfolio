@@ -1,0 +1,41 @@
+import {
+  Binary,
+  Blocks,
+  BrainCircuit,
+  Camera,
+  Coffee,
+  Database,
+  FileSpreadsheet,
+  FileCode2,
+  GitBranch,
+  LineChart,
+  MessageSquareText,
+  Network,
+  Puzzle,
+  ScanEye,
+  Sparkles,
+  Terminal,
+  Trophy,
+  type LucideIcon,
+} from 'lucide-react'
+
+export const skillIcon: Record<string, LucideIcon> = {
+  python: FileCode2,
+  cpp: Terminal,
+  java: Coffee,
+  sql: Database,
+  aiml: BrainCircuit,
+  'python-ai': Sparkles,
+  cv: ScanEye,
+  opencv: Camera,
+  forecast: LineChart,
+  prompt: MessageSquareText,
+  dsa: Network,
+  leetcode: Trophy,
+  'problem-solving': Puzzle,
+  hedera: Blocks,
+  github: GitBranch,
+  excel: FileSpreadsheet,
+}
+
+export const fallbackIcon = Binary
