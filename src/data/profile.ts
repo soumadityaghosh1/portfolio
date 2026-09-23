@@ -27,10 +27,10 @@ export const person = {
   intro:
     'I study Computer Science at Sikkim Manipal Institute of Technology and intern with ByoSync, working with Python and AI. I build at the meeting point of software and intelligence, from lane detection and steering-angle prediction to AI-powered stock forecasting.',
   currentAssociation: 'Intern · ByoSync',
-  openToWork: true, // LinkedIn photo carries the #OpenToWork frame
+  openToWork: true, // shown on LinkedIn (#OpenToWork)
   interests: ['Python for AI', 'Computer vision (OpenCV)', 'Data structures & algorithms', 'Data & SQL', 'Web3 (Hedera)'],
   learningFocus: ['DSA in C++ & Java', 'LeetCode consistency', 'Python for AI', 'OpenCV'],
-  photo: { webp: '/profile.webp', jpg: '/profile.jpg' },
+  photo: { webp: '/headshot.webp', jpg: '/headshot.jpg' },
   /** Drop a PDF at /public/resume.pdf — the Resume button activates automatically. */
   resume: '/resume.pdf',
 }

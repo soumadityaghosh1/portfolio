@@ -23,7 +23,7 @@ this file.
 
 | File | Status |
 | --- | --- |
-| `public/profile.jpg` / `.webp` | Professional headshot, 900×900, padded to sit centred in the round hero frame. |
+| `public/headshot.jpg` / `.webp` | Professional headshot, 900×900, padded to sit centred in the round hero frame. |
 | `public/resume.pdf` | Not added yet. Once it exists, the Resume buttons link to it automatically; until then they open LinkedIn. |
 
 ## Optional
