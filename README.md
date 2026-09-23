@@ -23,7 +23,7 @@ this file.
 
 | File | Status |
 | --- | --- |
-| `public/profile.jpg` / `.webp` | LinkedIn photo, cropped to reduce the #OpenToWork frame. Replace it with a frame-free photo (square, ≥ 800 px) for the best result. |
+| `public/profile.jpg` / `.webp` | Professional headshot, 900×900, padded to sit centred in the round hero frame. |
 | `public/resume.pdf` | Not added yet. Once it exists, the Resume buttons link to it automatically; until then they open LinkedIn. |
 
 ## Optional
